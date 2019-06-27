@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Paths to Power</title>
+<body>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://bl.ocks.org/syntagmatic/raw/3341641/render-queue.js"></script>
+<link rel="stylesheet" href="style.css"></link>
+
+<script>
+
+function tabulate(data) {
+  const pre = d3.select("pre");
+  pre.select("table").remove()
+  const table = pre.append("table");
+  const header = table.append("tr");
+    
+  header.selectAll().data(Object.keys(data[0])).enter().append("th").text(d => d);
+
+  const rows = table.selectAll(".row").data(data).enter().append("tr")
+  const cells = rows.selectAll(".cell").data(d => Object.values(d)).enter().append("td").text(d => d);
+  return pre.node()
+}
+
+var margin = {top: 50, right: 50, bottom: 20, left: 100},
+    width = document.body.clientWidth - margin.left - margin.right,
+    height = 450 - margin.top - margin.bottom,
+    innerHeight = height - 2;
+
+var devicePixelRatio = window.devicePixelRatio || 1;
+
+var color = d3.scaleOrdinal()
+  .domain(["Linke", "SPD", "Die Grünen", "Union", "FDP", "AfD", "Fraktionslos"])
+  .range([d3.rgb(163, 52, 115), d3.rgb(192, 0, 31),  d3.rgb(64, 160, 59), d3.rgb(0, 0, 0), d3.rgb(249, 236, 55), d3.rgb(88, 156, 221), d3.rgb(51, 61, 139)]);
+
+var types = {
+  "String": {
+    key: "String",
+    coerce: String,
+    extent: function (data) { return data.sort(); },
+    within: function(d, extent, dim) { return extent[0] <= dim.scale(d) && dim.scale(d) <= extent[1]; },
+    defaultScale: d3.scalePoint().range([0, innerHeight])
+  },
+};
+
+var dimensions = [
+  {
+    key: "Partei",
+    description: "Partei",
+    type: types["String"],
+    domain: ["Die Linke", "SPD", "Die Grünen", "Union", "FDP", "AfD", "Fraktionslos"]
+  },
+  {
+    key: "Abschluss",
+    description: "Schulabschluss",
+    type: types["String"],
+    domain: ["Abitur","Mittlere Reife","Hauptschulabschluss"]
+  },
+  {
+    key: "Bildungsgrad",
+    description: "Bildungsgrad",
+    type: types["String"],
+    domain: ["Promotion", "Staatsexamen", "Masterabschluss", "Bachelorabschluss", "Duales Studium","Berufsausbildung"]
+  },
+  {
+    key: "Freiwilligendienst",
+    description: "Freiwilligendienst",
+    type: types["String"],
+    domain: ["Kein Freiwilligendienst", "Freiwilligendienst", "Wehrdienst"]
+  },
+  {
+    key: "Vormalige Ämter",
+    description: "Vormalige Ämter",
+    type: types["String"],
+    domain: ['Kein politisches Amt','Kommunale Räte', 'Kommunales Führungsamt', 'Landtag','Führungsposition auf Landesebene','Parteiamt auf Bundes- oder Landesebene']
+  },
+  {
+    key: "Beruf",
+    description: "Beruf",
+    type: types["String"],
+    domain: ['Handwerk','Service','Sport', 'Wissenschaft','Ingenieurwesen und Bau', 'Kirche', 'Rechtsanwalt/Kanzlei','Richteramt', 'Medizin/Arzt', 'Pflegeberuf','Lehrer','Akademische Lehre','Journalismus','PR/Werbung','NGO/Vereinstätigkeit','Gewerkschaft','Militär','Polizei/Strafverfolgung*Staatsanwalt','Immobilien','Bankwesen','Privatwirtschaft/Management','Landwirtschaft','Lobbyismus/Aktivismus','Verwaltung','Kultur','Unternehmer','Politik','Soziale Arbeit und Kinderbetreuung','Steuerberatung und Wirtschaftsprüfung']
+  }
+];
+
+var xscale = d3.scalePoint()
+    .domain(d3.range(dimensions.length))
+    .range([0, width]);
+
+var yAxis = d3.axisLeft();
+
+var container = d3.select("body").append("div")
+    .attr("class", "parcoords")
+    .style("width", width + margin.left + margin.right + "px")
+    .style("height", height + margin.top + margin.bottom + "px");
+
+var svg = container.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var canvas = container.append("canvas")
+    .attr("width", width * devicePixelRatio)
+    .attr("height", height * devicePixelRatio)
+    .style("width", width + "px")
+    .style("height", height + "px")
+    .style("margin-top", margin.top + "px")
+    .style("margin-left", margin.left + "px");
+
+var ctx = canvas.node().getContext("2d");
+ctx.globalCompositeOperation = "lighten";
+ctx.globalAlpha = 0.15;
+ctx.lineWidth = 7;
+ctx.scale(devicePixelRatio, devicePixelRatio);
+
+var number  = d3.select("body").append("div")
+	.attr("class","number")
+	.attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom);
+
+var output = d3.select("body").append("pre")
+
+var axes = svg.selectAll(".axis")
+  .data(dimensions)
+  .enter().append("g")
+    .attr("class", function(d) { return "axis " + d.key.replace(/ /g, "_"); })
+    .attr("transform", function(d,i) { return "translate(" + xscale(i) + ")"; });
+
+d3.csv("data.csv", function(error, data) {
+  if (error) throw error;
+
+  // Coerce Data into appropriate Type
+  data.forEach(function(d) {
+    dimensions.forEach(function(p) {
+      d[p.key] = !d[p.key] ? null : p.type.coerce(d[p.key]);
+    });
+  });
+
+  // Type/Dimension default settings
+  dimensions.forEach(function(dim) {
+    if (!("domain" in dim)) {
+      dim.domain = d3_functor(dim.type.extent)(data.map(function(d){return d[dim.key]}));
+    }
+    dim.scale = d3
+      .scalePoint()
+      .range([0, innerHeight])
+      .domain(dim.domain);
+  });
+
+  var render = renderQueue(draw).rate(60);
+
+  ctx.clearRect(0,0,width,height);
+  render(data);
+
+  axes.append("g")
+      .each(function(d) {
+        d3.select(this).call(yAxis.scale(d.scale));
+      })
+    .append("text")
+      .attr("class", "title")
+      .attr("text-anchor", "start")
+      .text(function(d) {return d.description});
+
+  // Add and store a brush for each axis.
+  axes.append("g")
+      .attr("class", "brush")
+      .each(function(d) {
+        d3.select(this).call(d.brush = d3.brushY()
+          .extent([[-10,0], [10,height]])
+          .on("start", brushstart)
+          .on("brush", brush)
+          .on("end", brush)
+        )
+      })
+    .selectAll("rect")
+      .attr("x", -8)
+      .attr("width", 16);
+
+  // Color leftmost labels in appropriately
+  d3.selectAll(".axis.Partei .tick text")
+    .style("fill", color);
+  
+  // Draw initial data table
+  tabulate(data)
+  number.text(data.length+" Abgeordnete");
+
+  function project(d) {
+    return dimensions.map(function(p,i) {return [xscale(i),p.scale(d[p.key])]});
+  };
+
+  //
+  function draw(d) {
+    ctx.strokeStyle = color(d.Partei);
+    ctx.beginPath();
+    var coords = project(d);
+    var last;
+    coords.forEach(function(p,i) {
+      if (i == 0) {
+        ctx.moveTo(p[0],p[1]);
+        last = p
+      } else {
+        var offset = (p[0]-last[0])*0.5;
+        ctx.bezierCurveTo(last[0]+offset, last[1], p[0]-offset, p[1], p[0], p[1])
+        last = p
+      }
+    });
+    ctx.stroke();
+  }
+
+  function brushstart() {
+    d3.event.sourceEvent.stopPropagation();
+  }
+
+  // Handles a brush event, toggling the display of foreground lines.
+  function brush() {
+    render.invalidate();
+
+    var actives = [];
+    svg.selectAll(".axis .brush")
+      .filter(function(d) {
+        return d3.brushSelection(this);
+      })
+      .each(function(d) {
+        actives.push({
+          dimension: d,
+          extent: d3.brushSelection(this)
+        });
+      });
+
+    var selected = data.filter(function(d) {
+      if (actives.every(function(active) {
+          var dim = active.dimension;
+          // test if point is within extents for each active brush
+          return dim.type.within(d[dim.key], active.extent, dim);
+        })) {
+        return true;
+      }
+    });
+
+    ctx.clearRect(0,0,width,height);
+    render(selected);
+    tabulate(selected)
+    number.text(selected.length+" Abgeordnete");
+  }
+});
+
+function d3_functor(v) {
+  return typeof v === "function" ? v : function() { return v; };
+};
+</script>
+
+</body>
