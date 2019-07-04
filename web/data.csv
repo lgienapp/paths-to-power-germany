@@ -1,123 +1,712 @@
-Name,Partei,Bildungsgrad,Abschluss,Freiwilligendienst,Vormalige Ämter,Beruf
-"Abercron, Michael von",Union,Promotion,Abitur,Wehrdienst,Landtag,Unternehmer
-"Albani, Stephan",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Unternehmer
-"Altenkamp, Norbert",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunales Führungsamt,Politik
-"Altmaier, Peter",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Amthor, Philipp",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Politik
-"Annen, Niels",SPD,Masterabschluss,Abitur,Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
-"Arndt-Brauer, Ingrid",SPD,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunale Räte,Privatwirtschaft/Management
-"Auernhammer, Artur",Union,Berufsausbildung,Mittlere Reife,Kein Freiwilligendienst,Kommunale Räte,Landwirtschaft
-"Aumer, Peter",Union,Duales Studium,Mittlere Reife,Kein Freiwilligendienst,Kommunale Räte,Privatwirtschaft/Management
-"Bahr, Ulrike ",SPD,Staatsexamen,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
-"Baradari, Nezahat",SPD,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunales Führungsamt,NGO/Vereinstätigkeit
-"Bareiß, Thomas",Union,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Barley, Katarina",SPD,Promotion,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Richteramt
-"Barnett, Doris ",SPD,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunales Führungsamt,Soziale Arbeit und Kinderbetreuung
-"Barthle, Norbert",Union,Staatsexamen,Abitur,Wehrdienst,Kein politisches Amt,Politik
-"Bartol, Sören ",SPD,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunales Führungsamt,Politik
-"Baumann, Bernd",AfD,Promotion,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Beermann, Maik",Union,Duales Studium,Mittlere Reife,Kein Freiwilligendienst,Kommunale Räte,Bankwesen
-"Behrens, Manfred",Union,Berufsausbildung,Hauptschulabschluss,Kein Freiwilligendienst,Kommunales Führungsamt,Politik
-"Bellmann, Veronika",Union,Duales Studium,Mittlere Reife,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
-"Benning, Sybille",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunale Räte,Unternehmer
-"Berghegger, André",Union,Promotion,Abitur,Wehrdienst,Kommunales Führungsamt,Politik
-"Bernhard, Marc",AfD,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Bernstein, Melanie",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Beyer, Peter",Union,Staatsexamen,Abitur,Wehrdienst,Kommunale Räte,Rechtsanwalt/Kanzlei
-"Biadacz, Mark",Union,Masterabschluss,Abitur,Freiwilligendienst,Kommunale Räte,Politik
-"Bilger, Steffen",Union,Staatsexamen,Abitur,Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Binding, Lothar",SPD,Masterabschluss,Abitur,Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Ingenieurwesen und Bau
-"Bleser, Peter",Union,Berufsausbildung,Hauptschulabschluss,Kein Freiwilligendienst,Kommunale Räte,Landwirtschaft
-"Boehringer, Peter",AfD,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Brackmann, Norbert",Union,Staatsexamen,Abitur,Wehrdienst,Kommunale Räte,Journalismus
-"Brand, Michael",Union,Masterabschluss,Abitur,Wehrdienst,Kein politisches Amt,Politik
-"Brandl, Reinhard",Union,Promotion,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Braun, Helge",Union,Promotion,Abitur,Wehrdienst,Kommunale Räte,Wissenschaft
-"Braun, Jürgen",AfD,Staatsexamen,Abitur,Wehrdienst,Kein politisches Amt,PR/Werbung
-"Breher, Silvia",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Lobbyismus/Aktivismus
-"Brehm, Sebastian",Union,Masterabschluss,Abitur,Wehrdienst,Kommunale Räte,Steuerberatung und Wirtschaftsprüfung
-"Brehmer, Heike",Union,Masterabschluss,Mittlere Reife,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Verwaltung
-"Breymaier, Leni",SPD,Staatsexamen,Mittlere Reife,Kein Freiwilligendienst,Kein politisches Amt,Gewerkschaft
-"Brinkhaus, Ralph",Union,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
-"Brodesser, Carsten",Union,Promotion,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Privatwirtschaft/Management
-"Budde, Katrin ",SPD,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Gewerkschaft
-"Burkert, Martin ",SPD,Berufsausbildung,Hauptschulabschluss,Wehrdienst,Führungsposition auf Landesebene,Verwaltung
-"Büttner, Matthias",AfD,Berufsausbildung,Abitur,Freiwilligendienst,Kommunales Führungsamt,Privatwirtschaft/Management
-"Castellucci, Lars",SPD,Promotion,Abitur,Freiwilligendienst,Kommunales Führungsamt,Verwaltung
-"Chrupalla, Tino",AfD,Berufsausbildung,Mittlere Reife,Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Connemann, Gitta",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunale Räte,Rechtsanwalt/Kanzlei
-"Daldrup, Bernhard ",SPD,Masterabschluss,Abitur,Freiwilligendienst,Kommunales Führungsamt,Politik
-"Damerow, Astrid",Union,Berufsausbildung,Mittlere Reife,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Dobrindt, Alexander",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
-"Donth, Michael",Union,Duales Studium,Abitur,Wehrdienst,Kommunales Führungsamt,Politik
-"Dr. Brunner, Karl-Heinz",SPD,Promotion,Abitur,Wehrdienst,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
-Dr. Matthias Bartke,SPD,Promotion,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Durz, Hansjörg",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunales Führungsamt,Unternehmer
-"Dött, Marie-Luise",Union,Berufsausbildung,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Erndl, Thomas",Union,Duales Studium,Mittlere Reife,Wehrdienst,Kommunale Räte,Privatwirtschaft/Management
-"Feiler, Uwe",Union,Duales Studium,Abitur,Kein Freiwilligendienst,Kommunale Räte,Verwaltung
-"Ferlemann, Enak",Union,Bachelorabschluss,Abitur,Wehrdienst,Kommunale Räte,Privatwirtschaft/Management
-"Fischer, Axel E.",Union,Masterabschluss,Mittlere Reife,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
-"Flachsbarth, Maria",Union,Promotion,Abitur,Kein Freiwilligendienst,Kein politisches Amt,PR/Werbung
-"Frei, Thorsten",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Friedrich, Hans-Peter",Union,Promotion,Abitur,Wehrdienst,Kein politisches Amt,Politik
-"Frieser, Michael",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunale Räte,Privatwirtschaft/Management
-"Fuchtel, Hans-Joachim",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Färber, Hermann",Union,Berufsausbildung,Hauptschulabschluss,Kein Freiwilligendienst,Kommunale Räte,Landwirtschaft
-"Gebhart, Thomas",Union,Promotion,Abitur,Freiwilligendienst,Landtag,Politik
-"Gerig, Alois",Union,Berufsausbildung,Hauptschulabschluss,Kein Freiwilligendienst,Kommunale Räte,Landwirtschaft
-"Gienger, Eberhard",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Privatwirtschaft/Management
-"Gnodtke, Eckhard",Union,Staatsexamen,Abitur,Wehrdienst,Kommunale Räte,Verwaltung
-"Groden-Kranich, Ursula",Union,Berufsausbildung,Abitur,Kein Freiwilligendienst,Kommunale Räte,Bankwesen
-"Grosse-Brömer, Michael",Union,Staatsexamen,Abitur,Wehrdienst,Kein politisches Amt,Rechtsanwalt/Kanzlei
-"Grotelüschen, Astrid",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunale Räte,Privatwirtschaft/Management
-"Grund, Manfred",Union,Masterabschluss,Mittlere Reife,Kein Freiwilligendienst,Kein politisches Amt,Verwaltung
-"Grundmann, Oliver",Union,Staatsexamen,Abitur,Wehrdienst,Kommunales Führungsamt,Privatwirtschaft/Management
-"Gröhe, Hermann",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
-"Gröhler, Klaus-Dieter",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Landtag,Politik
-"Grübel, Markus",Union,Duales Studium,Abitur,Wehrdienst,Kommunale Räte,Verwaltung
-"Grütters, Monika",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
-"Gutting, Olav",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Rechtsanwalt/Kanzlei
-"Gädechens, Ingo",Union,Berufsausbildung,Mittlere Reife,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Militär
-"Güntzler, Fritz",Union,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
-"Haase, Christian",Union,Duales Studium,Mittlere Reife,Kein Freiwilligendienst,Kommunales Führungsamt,Politik
-"Hahn, Florian",Union,Bachelorabschluss,Abitur,Wehrdienst,Kommunale Räte,Politik
-"Hardt, Jürgen",Union,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Hauer, Matthias",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
-"Hauptmann, Mark",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Heider, Matthias",Union,Promotion,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
-"Heil, Mechthild",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Kommunale Räte,Ingenieurwesen und Bau
-"Heilmann, Thomas",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Heinrich, Frank",Union,Bachelorabschluss,Abitur,Freiwilligendienst,Kein politisches Amt,Soziale Arbeit und Kinderbetreuung
-"Helfrich, Mark",Union,Duales Studium,Abitur,Wehrdienst,Kommunale Räte,Privatwirtschaft/Management
-"Henke, Rudolf",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
-"Hennrich, Michael",Union,Staatsexamen,Abitur,Wehrdienst,Kommunale Räte,Politik
-"Henrichmann, Marc",Union,Staatsexamen,Abitur,Wehrdienst,Kein politisches Amt,NGO/Vereinstätigkeit
-"Heveling, Ansgar",Union,Staatsexamen,Abitur,Wehrdienst,Kommunale Räte,Politik
-"Hirte, Christian",Union,Staatsexamen,Abitur,Freiwilligendienst,Kommunale Räte,Politik
-"Hirte, Heribert",Union,Promotion,Abitur,Wehrdienst,Kein politisches Amt,Akademische Lehre
-"Hoffmann, Alexander",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunale Räte,Verwaltung
-"Holmeier, Karl",Union,Berufsausbildung,Mittlere Reife,Wehrdienst,Kommunales Führungsamt,Politik
-"Hoppenstedt, Hendrik",Union,Staatsexamen,Abitur,Wehrdienst,Kommunales Führungsamt,Politik
-"Irlstorfer, Erich",Union,Berufsausbildung,Mittlere Reife,Wehrdienst,Kommunale Räte,Privatwirtschaft/Management
-"Irmer, Hans-Jürgen",Union,Staatsexamen,Abitur,Wehrdienst,Landtag,Lehrer
-"Jarzombek, Thomas",Union,Bachelorabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Kartes, Torbjörn",Union,Staatsexamen,Abitur,Freiwilligendienst,Kommunale Räte,Privatwirtschaft/Management
-"Kauder, Volker",Union,Staatsexamen,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Verwaltung
-"Kaufmann, Stefan",Union,Promotion,Abitur,Freiwilligendienst,Kommunale Räte,Politik
-"Kiesewetter, Roderich",Union,Masterabschluss,Abitur,Wehrdienst,Parteiamt auf Bundes- oder Landesebene,Militär
-"Kießling, Michael",Union,Bachelorabschluss,Mittlere Reife,Wehrdienst,Kommunales Führungsamt,Politik
-"Kippels, Georg",Union,Promotion,Abitur,Wehrdienst,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
-"Klein, Volkmar",Union,Masterabschluss,Abitur,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Politik
-"Knoerig, Axel",Union,Masterabschluss,Abitur,Wehrdienst,Kommunale Räte,Privatwirtschaft/Management
-"Koeppen, Jens",Union,Berufsausbildung,Mittlere Reife,Kein Freiwilligendienst,Parteiamt auf Bundes- oder Landesebene,Unternehmer
-"Koob, Markus",Union,Masterabschluss,Abitur,Freiwilligendienst,Kommunale Räte,Politik
-"Krauß, Alexander",Union,Bachelorabschluss,Abitur,Wehrdienst,Landtag,PR/Werbung
-"Krichbaum, Gunther",Union,Staatsexamen,Abitur,Wehrdienst,Kein politisches Amt,Privatwirtschaft/Management
-"Krings, Günter",Union,Promotion,Abitur,Kein Freiwilligendienst,Kein politisches Amt,Privatwirtschaft/Management
-"Kruse, Rüdiger",Union,Bachelorabschluss,Abitur,Kein Freiwilligendienst,Kommunale Räte,NGO/Vereinstätigkeit
-"Kuffer, Michael",Union,Staatsexamen,Abitur,Kein Freiwilligendienst,Kommunale Räte,Akademische Lehre
-"Körber, Carsten",Union,Masterabschluss,Abitur,Wehrdienst,Kommunale Räte,Politik
-"Kühne, Roy",Union,Promotion,Abitur,Wehrdienst,Kommunale Räte,Unternehmer
-"Lamers, Karl A.",Union,Promotion,Abitur,Kein Freiwilligendienst,Kommunale Räte,Politik
-"Lämmel, Andreas G.",Union,Duales Studium,Mittlere Reife,Wehrdienst,Landtag,Verwaltung
+index,Name,Partei,Bildungsgrad,Abschluss,Vormalige Ämter,Beruf
+0,"Abercron, Michael von",Union,Promotion,Abitur,Landtag,Unternehmer
+1,"Aggelidis, Grigorios",FDP,Berufsausbildung,Abitur,Kein politisches Amt,Unternehmer
+2,"Albani, Stephan",Union,Masterabschluss,Abitur,Kein politisches Amt,Unternehmer
+3,"Alt, Renata",FDP,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+4,"Altenkamp, Norbert",Union,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+5,"Altmaier, Peter",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+6,Amira Mohamed Ali,Die Linke,Masterabschluss,Keine Daten,Keine Daten,Keine Daten
+7,"Amthor, Philipp",Union,Staatsexamen,Abitur,Kein politisches Amt,Politik
+8,"Amtsberg, Luise",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+9,"Andreae, Kerstin",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+10,Andreas Wagner,Die Linke,Duales Studium,Keine Daten,Keine Daten,Keine Daten
+11,Andrej Hunko,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+12,Anke Domscheit-Berg,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+13,"Annen, Niels",SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+14,"Arndt-Brauer, Ingrid",SPD,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+15,"Aschenberg-Dugnus, Christine",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+16,"Auernhammer, Artur",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Landwirtschaft
+17,"Aumer, Peter",Union,Duales Studium,Mittlere Reife,Kommunale Räte,Privatwirtschaft/Management
+18,"Badum, Lisa",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+19,"Baehrens, Heike",SPD,Masterabschluss,Keine Daten,Kommunale Räte,NGO/Vereinstätigkeit
+20,"Baerbock, Annalena",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+21,"Bahr, Ulrike ",SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+22,"Baradari, Nezahat",SPD,Staatsexamen,Abitur,Kommunales Führungsamt,NGO/Vereinstätigkeit
+23,"Bareiß, Thomas",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+24,"Barley, Katarina",SPD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Richteramt
+25,"Barnett, Doris ",SPD,Staatsexamen,Abitur,Kommunales Führungsamt,Soziale Arbeit und Kinderbetreuung
+26,"Barthle, Norbert",Union,Staatsexamen,Abitur,Kein politisches Amt,Politik
+27,"Bartol, Sören ",SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+28,"Bas, Bärbel",SPD,Berufsausbildung,Hauptschulabschluss,Keine Daten,Privatwirtschaft/Management
+29,"Bauer, Nicole",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+30,"Baumann, Bernd",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+31,"Bause, Margarete",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+32,"Bayaz, Danyal",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+33,"Bayram, Canan",Die Grünen,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+34,"Beeck, Jens",FDP,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+35,"Beer, Nicola",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+36,"Beermann, Maik",Union,Duales Studium,Mittlere Reife,Kommunale Räte,Bankwesen
+37,"Behrens, Manfred",Union,Berufsausbildung,Hauptschulabschluss,Kommunales Führungsamt,Politik
+38,"Bellmann, Veronika",Union,Duales Studium,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+39,"Benning, Sybille",Union,Masterabschluss,Abitur,Kommunale Räte,Unternehmer
+40,"Berghegger, André",Union,Promotion,Abitur,Kommunales Führungsamt,Politik
+41,Bernd Riexinger,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+42,"Bernhard, Marc",AfD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+43,"Bernstein, Melanie",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+44,"Bernstiel, Christoph",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+45,"Beyer, Peter",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+46,"Biadacz, Mark",Union,Masterabschluss,Abitur,Kommunale Räte,Politik
+47,"Bilger, Steffen",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+48,"Binding, Lothar",SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Ingenieurwesen und Bau
+49,Birke Bull-Bischoff,Die Linke,Berufsausbildung,Abitur,Keine Daten,Keine Daten
+50,"Bleck, Andreas",AfD,Bachelorabschluss,Abitur,Kommunale Räte,Politik
+51,"Bleser, Peter",Union,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Landwirtschaft
+52,"Boehringer, Peter",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+53,"Brackmann, Norbert",Union,Staatsexamen,Abitur,Kommunale Räte,Journalismus
+54,"Brand, Michael",Union,Masterabschluss,Abitur,Kein politisches Amt,Politik
+55,"Brandenburg, Jens",FDP,Promotion,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+56,"Brandenburg, Mario",FDP,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+57,"Brandl, Reinhard",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+58,"Brandner, Stephan",AfD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Privatwirtschaft/Management
+59,"Brantner, Franziska",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+60,"Braun, Helge",Union,Promotion,Abitur,Kommunale Räte,Wissenschaft
+61,"Braun, Jürgen",AfD,Staatsexamen,Abitur,Kein politisches Amt,PR/Werbung
+62,"Breher, Silvia",Union,Staatsexamen,Abitur,Kein politisches Amt,Lobbyismus/Aktivismus
+63,"Brehm, Sebastian",Union,Masterabschluss,Abitur,Kommunale Räte,Steuerberatung und Wirtschaftsprüfung
+64,"Brehmer, Heike",Union,Masterabschluss,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+65,"Breymaier, Leni",SPD,Staatsexamen,Mittlere Reife,Kein politisches Amt,Gewerkschaft
+66,Brigitte Freihold,Die Linke,Berufsausbildung,Abitur,Keine Daten,Keine Daten
+67,"Brinkhaus, Ralph",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
+68,"Brodesser, Carsten",Union,Promotion,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+69,"Brugger, Agnieszka",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+70,"Buchholz, Bernd",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+71,"Budde, Katrin ",SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Gewerkschaft
+72,"Burkert, Martin ",SPD,Berufsausbildung,Hauptschulabschluss,Führungsposition auf Landesebene,Verwaltung
+73,"Buschmann, Marco",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+74,"Busen, Karlheinz",FDP,Masterabschluss,Abitur,Landtag,Ingenieurwesen und Bau
+75,"Bystron, Petr",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+76,"Bär, Dorothee",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+77,"Bühl, Marcus",AfD,Masterabschluss,Abitur,Kein politisches Amt,Politik
+78,"Bülow, Marco",Fraktionslos,Bachelorabschluss,Abitur,Kommunale Räte,Journalismus
+79,"Büttner, Matthias",AfD,Berufsausbildung,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+80,Caren Lay,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+81,"Castellucci, Lars",SPD,Promotion,Abitur,Kommunales Führungsamt,Verwaltung
+82,"Christmann, Anna",Die Grünen,Promotion,Abitur,Kein politisches Amt,Wissenschaft
+83,"Chrupalla, Tino",AfD,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+84,"Connemann, Gitta",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+85,Cornelia Möhring,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+86,"Cotar, Joana",AfD,Bachelorabschluss,Abitur,Kein politisches Amt,Politik
+87,"Cronenberg, Carl-Julius",FDP,Bachelorabschluss,Abitur,Kommunales Führungsamt,Unternehmer
+88,"Curio, Gottfried ",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Kultur
+89,"Daldrup, Bernhard ",SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+90,"Damerow, Astrid",Union,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+91,"Dassler, Britta Katharina",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+92,De Ridder,SPD,Promotion,Keine Daten,Keine Daten,Keine Daten
+93,"Deligöz, Ekin",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+94,Dilcher,SPD,Masterabschluss,Mittlere Reife,Keine Daten,Keine Daten
+95,Dittmar,SPD,Masterabschluss,Mittlere Reife,Keine Daten,Keine Daten
+96,"Djir-Sarai, Bijan",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Service
+97,"Dobrindt, Alexander",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+98,"Donth, Michael",Union,Duales Studium,Abitur,Kommunales Führungsamt,Politik
+99,Dr. Achim Kessler,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+100,Dr. Alexander S. Neu,Die Linke,Masterabschluss,Mittlere Reife,Keine Daten,Keine Daten
+101,Dr. André Hahn,Die Linke,Berufsausbildung,Mittlere Reife,Keine Daten,Keine Daten
+102,"Dr. Brunner, Karl-Heinz",SPD,Promotion,Abitur,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
+103,Dr. Diether Dehm,Die Linke,Staatsexamen,Keine Daten,Keine Daten,Keine Daten
+104,Dr. Gregor Gysi,Die Linke,Masterabschluss,Keine Daten,Keine Daten,Keine Daten
+105,Dr. Kirsten Tackmann,Die Linke,Duales Studium,Keine Daten,Keine Daten,Keine Daten
+106,Dr. Matthias Bartke,SPD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+107,Dr. Petra Sitte,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+108,"Droese, Siegbert",AfD,Berufsausbildung,Mittlere Reife,Führungsposition auf Landesebene,Unternehmer
+109,"Dröge, Katharina",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+110,"Durz, Hansjörg",Union,Masterabschluss,Abitur,Kommunales Führungsamt,Unternehmer
+111,"Dörner, Katja",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+112,"Dött, Marie-Luise",Union,Berufsausbildung,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+113,"Dürr, Christian",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+114,"Ebbing, Hartmut",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
+115,"Ebner, Harald",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Ingenieurwesen und Bau
+116,"Ehrhorn, Thomas",AfD,Bachelorabschluss,Abitur,Führungsposition auf Landesebene,Ingenieurwesen und Bau
+117,"Elsner von Gronow, Berenger",AfD,Bachelorabschluss,Abitur,Kommunales Führungsamt,Unternehmer
+118,"Erndl, Thomas",Union,Duales Studium,Mittlere Reife,Kommunale Räte,Privatwirtschaft/Management
+119,Esdar,SPD,Promotion,Abitur,Kommunales Führungsamt,Wissenschaft
+120,Esken,SPD,Promotion,Abitur,Kommunales Führungsamt,Ingenieurwesen und Bau
+121,"Espendiller, Michael",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
+122,Eva-Maria Schreiber,Die Linke,Berufsausbildung,Mittlere Reife,Keine Daten,Keine Daten
+123,"Faber, Marcus",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+124,Fahimi,SPD,Bachelorabschluss,Keine Daten,Kommunales Führungsamt,Gewerkschaft
+125,Fechner,SPD,Promotion,Abitur,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
+126,"Feiler, Uwe",Union,Duales Studium,Abitur,Kommunale Räte,Verwaltung
+127,Felgentreu,SPD,Promotion,Abitur,Kommunales Führungsamt,Wissenschaft
+128,"Felser, Peter",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+129,"Ferlemann, Enak",Union,Bachelorabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+130,"Fischer, Axel E.",Union,Masterabschluss,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
+131,"Flachsbarth, Maria",Union,Promotion,Abitur,Kein politisches Amt,PR/Werbung
+132,Franke,SPD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Akademische Lehre
+133,Freese,SPD,Berufsausbildung,Keine Daten,Führungsposition auf Landesebene,NGO/Vereinstätigkeit
+134,"Frei, Thorsten",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+135,Freitag,SPD,Staatsexamen,Abitur,Kommunales Führungsamt,Lehrer
+136,"Fricke, Otto",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+137,"Friedhoff, Dietmar",AfD,Masterabschluss,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+138,Friedrich Straetmanns,Die Linke,Masterabschluss,Keine Daten,Keine Daten,Keine Daten
+139,"Friedrich, Hans-Peter",Union,Promotion,Abitur,Kein politisches Amt,Politik
+140,"Friesen, Anton",AfD,Promotion,Abitur,Führungsposition auf Landesebene,Politik
+141,"Frieser, Michael",Union,Staatsexamen,Abitur,Kommunale Räte,Privatwirtschaft/Management
+142,"Frohnmeier, Markus",AfD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+143,"Frömming, Götz",AfD,Promotion,Abitur,Führungsposition auf Landesebene,Lehrer
+144,"Fuchtel, Hans-Joachim",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+145,"Färber, Hermann",Union,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Landwirtschaft
+146,"Föst, Daniel",FDP,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+147,Gabriel,SPD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Lehrer
+148,"Gastel, Matthias",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+149,"Gauland, Alexander",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+150,"Gebhart, Thomas",Union,Promotion,Abitur,Landtag,Politik
+151,"Gehring, Kai",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+152,"Gehrke, Axel (Prof.Dr.)",AfD,Promotion,Abitur,Kein politisches Amt,Unternehmer
+153,"Gelbhaar, Stefan",Die Grünen,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+154,Gerdes,SPD,Berufsausbildung,Mittlere Reife,Kommunale Räte,Handwerk
+155,"Gerig, Alois",Union,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Landwirtschaft
+156,Gerster,SPD,Promotion,Abitur,Kommunales Führungsamt,Journalismus
+157,"Gienger, Eberhard",Union,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+158,"Glaser, Albrecht",AfD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+159,Glöckner,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Service
+160,"Gminder, Franziska",AfD,Masterabschluss,Abitur,Kommunales Führungsamt,Immobilien
+161,"Gnodtke, Eckhard",Union,Staatsexamen,Abitur,Kommunale Räte,Verwaltung
+162,"Gottberg, Wilhelm von",AfD,Staatsexamen,Abitur,Kommunales Führungsamt,Landwirtschaft
+163,"Gottschalk, Kay",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+164,Gremmels,SPD,Masterabschluss,Abitur,Landtag,Politik
+165,Griese,SPD,Masterabschluss,Abitur,Landtag,NGO/Vereinstätigkeit
+166,"Groden-Kranich, Ursula",Union,Berufsausbildung,Abitur,Kommunale Räte,Bankwesen
+167,"Grosse-Brömer, Michael",Union,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+168,"Grotelüschen, Astrid",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+169,Groß,SPD,Masterabschluss,Abitur,Kommunale Räte,Soziale Arbeit und Kinderbetreuung
+170,"Grund, Manfred",Union,Masterabschluss,Mittlere Reife,Kein politisches Amt,Verwaltung
+171,"Grundl, Erhard",Die Grünen,Bachelorabschluss,Abitur,Landtag,Kultur
+172,"Grundmann, Oliver",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+173,"Gröhe, Hermann",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+174,"Gröhler, Klaus-Dieter",Union,Staatsexamen,Abitur,Landtag,Politik
+175,Grötsch,SPD,Berufsausbildung,Mittlere Reife,Kommunales Führungsamt,Polizei/Strafverfolgung*Staatsanwalt
+176,"Grübel, Markus",Union,Duales Studium,Abitur,Kommunale Räte,Verwaltung
+177,"Grütters, Monika",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+178,"Gutting, Olav",Union,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+179,"Gädechens, Ingo",Union,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Militär
+180,"Göring-Eckardt, Katrin",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+181,"Güntzler, Fritz",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
+182,"Haase, Christian",Union,Duales Studium,Mittlere Reife,Kommunales Führungsamt,Politik
+183,"Hacker, Thomas",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
+184,Hagedorn,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+185,Hagl-Kehl,SPD,Staatsexamen,Abitur,Kommunales Führungsamt,Lehrer
+186,"Hahn, Florian",Union,Bachelorabschluss,Abitur,Kommunale Räte,Politik
+187,"Hajduk, Anja",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+188,Hakverdi,SPD,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+189,"Hampel, Armin-Paulus",AfD,Berufsausbildung,Abitur,Parteiamt auf Bundes- oder Landesebene,Militär
+190,"Harder-Kühnel, Mariana Iris",AfD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Steuerberatung und Wirtschaftsprüfung
+191,"Hardt, Jürgen",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+192,"Hartmann, Verena",AfD,Masterabschluss,Abitur,Kommunales Führungsamt,Verwaltung
+193,"Hartwig, Roland",AfD,Promotion,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+194,"Hauer, Matthias",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+195,"Haug, Jochen",AfD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+196,"Hauptmann, Mark",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+197,"Haßelmann, Britta",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+198,"Hebner, Martin",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+199,"Heider, Matthias",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+200,Heidrun Bluhm,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+201,Heike Hänsel,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+202,Heil,SPD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+203,"Heil, Mechthild",Union,Masterabschluss,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+204,"Heilmann, Thomas",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+205,Heinrich,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+206,"Heinrich, Frank",Union,Bachelorabschluss,Abitur,Kein politisches Amt,Soziale Arbeit und Kinderbetreuung
+207,Held,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+208,"Helfrich, Mark",Union,Duales Studium,Abitur,Kommunale Räte,Privatwirtschaft/Management
+209,Helin Evrim Sommer,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+210,"Helling-Plahr, Katrin",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+211,Hellmich,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+212,"Hemmelgarn, Udo Theodor",AfD,Berufsausbildung,Abitur,Kommunales Führungsamt,Unternehmer
+213,Hendricks,SPD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Lehrer
+214,"Henke, Rudolf",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+215,"Hennrich, Michael",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+216,"Henrichmann, Marc",Union,Staatsexamen,Abitur,Kein politisches Amt,NGO/Vereinstätigkeit
+217,"Herbrand, Markus",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Steuerberatung und Wirtschaftsprüfung
+218,"Herbst, Torsten",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+219,"Herdt, Waldemar",AfD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+220,"Herrmann, Lars",AfD,Bachelorabschluss,Mittlere Reife,Kommunales Führungsamt,Polizei/Strafverfolgung*Staatsanwalt
+221,Herzog,SPD,Berufsausbildung,Mittlere Reife,Landtag,Wissenschaft
+222,"Hess, Martin",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Polizei/Strafverfolgung*Staatsanwalt
+223,"Hessel, Katja",FDP,Staatsexamen,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+224,"Heveling, Ansgar",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+225,"Heßenkemper, Heiko (Prof.)",AfD,Promotion,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+226,Hiller-Ohm,SPD,Masterabschluss,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+227,"Hilse, Karsten",AfD,Berufsausbildung,Mittlere Reife,Kommunales Führungsamt,Polizei/Strafverfolgung*Staatsanwalt
+228,"Hirte, Christian",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+229,"Hirte, Heribert",Union,Promotion,Abitur,Kein politisches Amt,Akademische Lehre
+230,Hitschler,SPD,Masterabschluss,Abitur,Kommunale Räte,Verwaltung
+231,"Hocker, Gero Clemens",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+232,"Hoffmann, Alexander",Union,Staatsexamen,Abitur,Kommunale Räte,Verwaltung
+233,"Hoffmann, Bettina",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+234,"Hoffmann, Christoph",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+235,"Hofreiter, Anton",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+236,"Hohmann, Martin",AfD,Staatsexamen,Abitur,Kommunales Führungsamt,Polizei/Strafverfolgung*Staatsanwalt
+237,"Hollnagel, Bruno",AfD,Promotion,Mittlere Reife,Führungsposition auf Landesebene,Privatwirtschaft/Management
+238,"Holm, Leif-Erik",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+239,"Holmeier, Karl",Union,Berufsausbildung,Mittlere Reife,Kommunales Führungsamt,Politik
+240,"Holtz, Ottmar von",Die Grünen,Masterabschluss,Abitur,Landtag,Akademische Lehre
+241,"Hoppenstedt, Hendrik",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Politik
+242,"Houben, Reinhard",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+243,"Huber, Johannes",AfD,Masterabschluss,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+244,"Höchst, Nicole",AfD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+245,"Höferlin, Manuel",FDP,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+246,Högl,SPD,Promotion,Abitur,Führungsposition auf Landesebene,Kultur
+247,"Ihnen, Ulla",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+248,Ingrid Remmers,Die Linke,Duales Studium,Keine Daten,Keine Daten,Keine Daten
+249,"Irlstorfer, Erich",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Privatwirtschaft/Management
+250,"Irmer, Hans-Jürgen",Union,Staatsexamen,Abitur,Landtag,Lehrer
+251,"Jacobi, Fabian",AfD,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+252,"Janecek, Dieter",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+253,"Jarzombek, Thomas",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+254,"Jensen, Gyde",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+255,"Jongen, Marc",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+256,"Jung, Andreas",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+257,"Jung, Christian",FDP,Promotion,Abitur,Kommunale Räte,Privatwirtschaft/Management
+258,"Jung, Ingmar",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+259,Junge,SPD,Masterabschluss,Abitur,Landtag,Lehrer
+260,Juratovic,SPD,Berufsausbildung,Hauptschulabschluss,Parteiamt auf Bundes- oder Landesebene,Ingenieurwesen und Bau
+261,Jurk,SPD,Berufsausbildung,Mittlere Reife,Führungsposition auf Landesebene,Ingenieurwesen und Bau
+262,Jutta Krellmann,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+263,Jörg Cezanne,Die Linke,Duales Studium,Abitur,Keine Daten,Keine Daten
+264,Kaczmarek,SPD,Masterabschluss,Abitur,Landtag,Wissenschaft
+265,Kahrs,SPD,Bachelorabschluss,Abitur,Landtag,Rechtsanwalt/Kanzlei
+266,Kaiser,SPD,Masterabschluss,Abitur,Landtag,Wissenschaft
+267,"Kamann, Uwe",Fraktionslos,Berufsausbildung,Hauptschulabschluss,Kein politisches Amt,Privatwirtschaft/Management
+268,"Kappert-Gonther, Kirsten",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Medizin/Arzt
+269,Kapschack,SPD,Masterabschluss,Abitur,Kommunale Räte,Journalismus
+270,Karamba,SPD,Promotion,Abitur,Kommunale Räte,Wissenschaft
+271,"Karl, Alois",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
+272,"Karliczek, Anja",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+273,"Kartes, Torbjörn",Union,Staatsexamen,Abitur,Kommunale Räte,Privatwirtschaft/Management
+274,Kathrin Vogler,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+275,Katja Kipping,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+276,Katrin Werner,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+277,Katzmarek,SPD,Berufsausbildung,Mittlere Reife,Kommunale Räte,Handwerk
+278,"Kauder, Volker",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+279,"Kaufmann, Stefan",Union,Promotion,Abitur,Kommunale Räte,Politik
+280,"Kekeritz, Uwe",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+281,Kelber,SPD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+282,"Kemmer, Ronja",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+283,"Kemmerich, Thomas",FDP,Staatsexamen,Abitur,Landtag,Privatwirtschaft/Management
+284,"Kestner, Jens",AfD,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Militär
+285,"Keul, Katja",Die Grünen,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+286,"Keuter, Stefan",AfD,Duales Studium,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+287,"Kiesewetter, Roderich",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Militär
+288,"Kießling, Michael",Union,Bachelorabschluss,Mittlere Reife,Kommunales Führungsamt,Politik
+289,"Kindler, Sven-Christian",Die Grünen,Duales Studium,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+290,"Kippels, Georg",Union,Promotion,Abitur,Kommunales Führungsamt,Rechtsanwalt/Kanzlei
+291,Kiziltepe,SPD,Bachelorabschluss,Keine Daten,Kommunale Räte,Privatwirtschaft/Management
+292,Klare,SPD,Staatsexamen,Abitur,Kommunale Räte,Lehrer
+293,Klaus Ernst,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+294,"Klein, Karsten",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+295,"Klein, Volkmar",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+296,"Klein-Schmeink, Maria",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+297,"Kleinwächter, Norbert",AfD,Staatsexamen,Abitur,Kommunales Führungsamt,Lehrer
+298,Klingbeil,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Gewerkschaft
+299,"Klinge, Marcel",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+300,"Kluckert, Daniela",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+301,"Knoerig, Axel",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+302,"Kober, Pascal",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Kirche
+303,"Koeppen, Jens",Union,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+304,Kofler,SPD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Gewerkschaft
+305,Kolbe,SPD,Masterabschluss,Abitur,Führungsposition auf Landesebene,Wissenschaft
+306,"Komning, Enrico",AfD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+307,"Konrad, Carina",FDP,Masterabschluss,Abitur,Kein politisches Amt,Landwirtschaft
+308,"Koob, Markus",Union,Masterabschluss,Abitur,Kommunale Räte,Politik
+309,Korkmaz,SPD,Duales Studium,Abitur,Landtag,Verwaltung
+310,"Kotré, Steffen",AfD,Masterabschluss,Abitur,Führungsposition auf Landesebene,Politik
+311,"Kotting-Uhl, Sylvia",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+312,"Kraft, Rainer",AfD,Promotion,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+313,Kramme,SPD,Staatsexamen,Abitur,Landtag,Rechtsanwalt/Kanzlei
+314,"Krauß, Alexander",Union,Bachelorabschluss,Abitur,Landtag,PR/Werbung
+315,"Krichbaum, Gunther",Union,Staatsexamen,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+316,"Krings, Günter",Union,Promotion,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+317,"Krischer, Oliver",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+318,"Kruse, Rüdiger",Union,Bachelorabschluss,Abitur,Kommunale Räte,NGO/Vereinstätigkeit
+319,"Kubicki, Wolfgang",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+320,"Kuffer, Michael",Union,Staatsexamen,Abitur,Kommunale Räte,Akademische Lehre
+321,"Kuhle, Konstantin",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+322,"Kulitz, Alexander",FDP,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+323,"Kurth, Markus",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+324,"Köhler, Lukas",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+325,"König, Jörn",AfD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+326,"Körber, Carsten",Union,Masterabschluss,Abitur,Kommunale Räte,Politik
+327,"Kühn, Christian",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
+328,"Kühn, Stephan",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+329,"Kühne, Roy",Union,Promotion,Abitur,Kommunale Räte,Unternehmer
+330,"Künast, Renate",Die Grünen,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+331,Lambrecht,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Bankwesen
+332,"Lambsdorff, Alexander Graf",FDP,Masterabschluss,Abitur,Kein politisches Amt,Politik
+333,"Lamers, Karl A.",Union,Promotion,Abitur,Kommunale Räte,Politik
+334,"Landgraf, Katharina",Union,Masterabschluss,Abitur,Führungsposition auf Landesebene,Landwirtschaft
+335,Lange,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+336,"Lange, Ulrich",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+337,"Launert, Silke",Union,Promotion,Abitur,Kein politisches Amt,Richteramt
+338,Lauterbach,SPD,Promotion,Abitur,Kommunale Räte,Medizin/Arzt
+339,"Lazar, Monika",Die Grünen,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Journalismus
+340,"Lechte, Ulrich",FDP,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+341,"Lehmann, Jens",Union,Bachelorabschluss,Mittlere Reife,Kommunale Räte,Soziale Arbeit und Kinderbetreuung
+342,"Lehmann, Sven",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+343,"Lehrieder, Paul",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+344,"Leikert, Katja",Union,Promotion,Abitur,Kein politisches Amt,Akademische Lehre
+345,"Lemke, Steffi",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+346,"Lenz, Andreas",Union,Promotion,Mittlere Reife,Kommunale Räte,Privatwirtschaft/Management
+347,"Lezius, Antje",Union,Duales Studium,Mittlere Reife,Kommunale Räte,Unternehmer
+348,Lindh,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Wissenschaft
+349,"Lindholz, Andrea",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+350,"Lindner, Christian",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+351,"Lindner, Tobias",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+352,"Link, Michael Georg",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+353,"Linnemann, Carsten",Union,Promotion,Abitur,Kommunale Räte,Privatwirtschaft/Management
+354,"Lips, Patricia",Union,Berufsausbildung,Abitur,Kommunale Räte,Privatwirtschaft/Management
+355,Lischka,SPD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+356,"Loos, Bernhard",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+357,"Lucassen, Rüdiger",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+358,"Luczak, Jan-Marco",Union,Promotion,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+359,"Ludwig, Daniela",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,NGO/Vereinstätigkeit
+360,"Luksic, Oliver",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+361,"Lämmel, Andreas G.",Union,Duales Studium,Mittlere Reife,Landtag,Verwaltung
+362,"Löbel, Nikolas",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+363,Lühmann,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Polizei/Strafverfolgung*Staatsanwalt
+364,"Maag, Karin",Union,Staatsexamen,Abitur,Kein politisches Amt,Politik
+365,Maas,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+366,"Magnitz, Frank",AfD,Masterabschluss,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+367,"Magwas, Yvonne",Union,Masterabschluss,Abitur,Kommunale Räte,Akademische Lehre
+368,"Maier, Jens",AfD,Staatsexamen,Abitur,Kommunales Führungsamt,Richteramt
+369,"Maier, Lothar (Prof.)",AfD,Promotion,Abitur,Kein politisches Amt,Akademische Lehre
+370,"Malsack-Winkelmann, Birgit",AfD,Promotion,Abitur,Kein politisches Amt,Richteramt
+371,"Manderla, Gisela",Union,Duales Studium,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+372,"Mannes, Astrid",Union,Promotion,Abitur,Kommunale Räte,Politik
+373,"Mansmann, Till",FDP,Masterabschluss,Abitur,Führungsposition auf Landesebene,Journalismus
+374,Marks,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+375,"Martens, Jürgen",FDP,Promotion,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+376,Martina Renner,Die Linke,Berufsausbildung,Mittlere Reife,Keine Daten,Keine Daten
+377,Mast,SPD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Bankwesen
+378,Matschie,SPD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Pflegeberuf
+379,"Mattfeldt, Andreas",Union,Berufsausbildung,Abitur,Kommunales Führungsamt,Politik
+380,Matthias Höhn,Die Linke,Berufsausbildung,Keine Daten,Keine Daten,Keine Daten
+381,"Mayer, Stephan",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+382,"Meister, Michael",Union,Promotion,Abitur,Kommunale Räte,Wissenschaft
+383,"Merkel, Angela Dorothea",Union,Promotion,Abitur,Kommunale Räte,Politik
+384,"Metzler, Jan",Union,Masterabschluss,Mittlere Reife,Kommunale Räte,Landwirtschaft
+385,"Meyer, Christoph",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+386,"Mhalic, Irene",Die Grünen,Promotion,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Polizei/Strafverfolgung*Staatsanwalt
+387,"Miazga, Corinna",AfD,Bachelorabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+388,Michael Leutert,Die Linke,Berufsausbildung,Abitur,Keine Daten,Keine Daten
+389,Michel Brandt,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+390,"Michelbach, Hans",Union,Duales Studium,Abitur,Kommunales Führungsamt,Unternehmer
+391,"Middelberg, Mathias",Union,Promotion,Abitur,Kein politisches Amt,Politik
+392,Miersch,SPD,Promotion,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+393,"Mieruch, Mario",Fraktionslos,Masterabschluss,Abitur,Keine Daten,Ingenieurwesen und Bau
+394,Mindrup,SPD,Masterabschluss,Abitur,Landtag,Lobbyismus/Aktivismus
+395,Mittag,SPD,Berufsausbildung,Keine Daten,Kommunales Führungsamt,Polizei/Strafverfolgung*Staatsanwalt
+396,Mohrs,SPD,Masterabschluss,Abitur,Kommunale Räte,Lobbyismus/Aktivismus
+397,Moll,SPD,Berufsausbildung,Mittlere Reife,Kommunale Räte,Pflegeberuf
+398,"Monstadt, Dietrich",Union,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+399,"Mortler, Marlene",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Landwirtschaft
+400,"Motschmann, Elisabeth",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+401,"Mrosek, Andreas",AfD,Masterabschluss,Abitur,Landtag,Privatwirtschaft/Management
+402,Möller,SPD,Staatsexamen,Abitur,Kein politisches Amt,Lehrer
+403,"Möring, Karsten",Union,Staatsexamen,Abitur,Kommunale Räte,Lehrer
+404,"Müller, Alexander",FDP,Masterabschluss,Abitur,Kommunale Räte,Unternehmer
+405,"Müller, Axel",Union,Staatsexamen,Abitur,Kommunale Räte,Richteramt
+406,"Müller, B.",SPD,Staatsexamen,Abitur,Führungsposition auf Landesebene,Pflegeberuf
+407,"Müller, Carsten",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+408,"Müller, Claudia",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Service
+409,"Müller, D.",SPD,Berufsausbildung,Mittlere Reife,Kommunales Führungsamt,Ingenieurwesen und Bau
+410,"Müller, Gerd",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+411,"Müller, Hansjörg",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+412,"Müller, Sepp",Union,Berufsausbildung,Abitur,Kommunale Räte,Privatwirtschaft/Management
+413,"Müller, Stefan",Union,Duales Studium,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Bankwesen
+414,"Müller-Böhm, Roman",FDP,Bachelorabschluss,Abitur,Kein politisches Amt,Keine Daten
+415,"Müller-Gemmeke, Beate",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+416,"Müller-Rosentritt, Frank",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Bankwesen
+417,Müntefering,SPD,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+418,"Münz, Volker",AfD,Masterabschluss,Abitur,Kein politisches Amt,Bankwesen
+419,Mützenich,SPD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+420,Nahles,SPD,Masterabschluss,Keine Daten,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+421,"Nestle, Ingrid",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+422,"Neumann, Christoph",AfD,Masterabschluss,Abitur,Kein politisches Amt,Unternehmer
+423,"Neumann, martin (Prof.)",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+424,"Nick, Andreas",Union,Promotion,Abitur,Kommunale Räte,Bankwesen
+425,"Nicolaisen, Petra",Union,Berufsausbildung,Mittlere Reife,Landtag,Privatwirtschaft/Management
+426,Nicole Gohlke,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+427,Nissen,SPD,Berufsausbildung,Mittlere Reife,Führungsposition auf Landesebene,Bankwesen
+428,"Noll, Michael",Union,Staatsexamen,Abitur,Kein politisches Amt,Politik
+429,"Nolte, Jan Ralf",AfD,Berufsausbildung,Mittlere Reife,Kommunales Führungsamt,Militär
+430,Norbert Müller (Potsdam),Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+431,"Notz, Konstantin von",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+432,"Nouripour, Omid",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Service
+433,"Nüßlein, Georg",Union,Promotion,Abitur,Kommunale Räte,Bankwesen
+434,"Oehme, Ulrich",AfD,Masterabschluss,Abitur,Kein politisches Amt,Unternehmer
+435,"Oellers, Wilfried",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+436,Oppermann,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Richteramt
+437,Ortleb,SPD,Bachelorabschluss,Abitur,Kommunale Räte,Service
+438,"Ostendorff, Friedrich",Die Grünen,Berufsausbildung,Abitur,Parteiamt auf Bundes- oder Landesebene,Landwirtschaft
+439,"Oster, Josef",Union,Duales Studium,Mittlere Reife,Kommunales Führungsamt,Politik
+440,"Otte, Henning",Union,Bachelorabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+441,"Otten, Gerold",AfD,Bachelorabschluss,Mittlere Reife,Kein politisches Amt,Militär
+442,"Oßner, Florian",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+443,"Pantel, Sylvia",Union,Bachelorabschluss,Abitur,Kommunale Räte,Unternehmer
+444,"Pasemann, Frank",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+445,"Patzelt, Martin",Union,Duales Studium,Mittlere Reife,Kommunales Führungsamt,Soziale Arbeit und Kinderbetreuung
+446,"Paus, Lisa",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
+447,"Peterka, Tobias Matthias",AfD,Masterabschluss,Abitur,Kein politisches Amt,Verwaltung
+448,Petry,SPD,Masterabschluss,Abitur,Landtag,Privatwirtschaft/Management
+449,"Petry, Frauke",Fraktionslos,Promotion,Abitur,Keine Daten,Privatwirtschaft/Management
+450,"Pfeiffer, Joachim",Union,Promotion,Abitur,Kommunale Räte,Privatwirtschaft/Management
+451,Pia Zimmermann,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+452,Pilger,SPD,Berufsausbildung,Mittlere Reife,Keine Daten,Sport
+453,"Pilsinger, Stephan",Union,Staatsexamen,Abitur,Kommunale Räte,Medizin/Arzt
+454,"Ploß, Christoph",Union,Promotion,Abitur,Kommunale Räte,PR/Werbung
+455,"Podolay, Paul Viktor",AfD,Berufsausbildung,Abitur,Kein politisches Amt,Medizin/Arzt
+456,"Pohl, Jürgen",AfD,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+457,"Polat, Filiz",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+458,"Pols, Eckhard",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Handwerk
+459,Poschmann,SPD,Berufsausbildung,Keine Daten,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+460,"Post, A.",SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+461,"Post, F.",SPD,Masterabschluss,Abitur,Kommunale Räte,Lobbyismus/Aktivismus
+462,Pronold,SPD,Berufsausbildung,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+463,"Protschka, Stephan",AfD,Berufsausbildung,Mittlere Reife,Kein politisches Amt,Unternehmer
+464,Raabe,SPD,Promotion,Abitur,Kommunales Führungsamt,Politik
+465,Rabanus,SPD,Masterabschluss,Keine Daten,Kommunales Führungsamt,Wissenschaft
+466,"Rachel, Thomas",Union,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+467,"Radomski, Kerstin",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Lehrer
+468,"Radwan, Alexander",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+469,"Rainer, Alois",Union,Berufsausbildung,Hauptschulabschluss,Kommunales Führungsamt,Handwerk
+470,"Ramsauer, Peter",Union,Promotion,Abitur,Kommunale Räte,Unternehmer
+471,"Rehberg, Eckhardt",Union,Duales Studium,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+472,"Reichardt, Martin",AfD,Bachelorabschluss,Abitur,Kein politisches Amt,Militär
+473,Reimann,SPD,Promotion,Abitur,Kommunales Führungsamt,Wissenschaft
+474,"Reinhold, Hagen",FDP,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Handwerk
+475,"Renner, Martin Erwin",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+476,"Rether, Bernd",FDP,Masterabschluss,Abitur,Führungsposition auf Landesebene,Politik
+477,"Reusch, Roman Johannes",AfD,Staatsexamen,Abitur,Kein politisches Amt,Polizei/Strafverfolgung*Staatsanwalt
+478,"Riebsamen, Lothar",Union,Duales Studium,Mittlere Reife,Kommunales Führungsamt,Politik
+479,"Rief, Josef",Union,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Landwirtschaft
+480,Rimkus,SPD,Berufsausbildung,Mittlere Reife,Kommunale Räte,Handwerk
+481,Rix,SPD,Berufsausbildung,Mittlere Reife,Landtag,Pflegeberuf
+482,Rohde,SPD,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+483,Rosemann,SPD,Promotion,Abitur,Führungsposition auf Landesebene,Privatwirtschaft/Management
+484,Rossmann,SPD,Promotion,Abitur,Führungsposition auf Landesebene,Medizin/Arzt
+485,Roth,SPD,Masterabschluss,Abitur,Führungsposition auf Landesebene,Wissenschaft
+486,"Roth, Claudia",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Kultur
+487,"Rottmann, Manuela",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+488,"Rouenhoff, Stefan",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+489,"Ruppert, Stefan",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+490,"Rupprecht, Albert",Union,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+491,Ryglewski,SPD,Masterabschluss,Abitur,Führungsposition auf Landesebene,Politik
+492,"Röring, Johannes",Union,Berufsausbildung,Mittlere Reife,Kein politisches Amt,Lobbyismus/Aktivismus
+493,Röspel,SPD,Masterabschluss,Mittlere Reife,Kommunale Räte,Wissenschaft
+494,"Röttgen, Norbert",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+495,"Rößner, Tabea",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+496,"Rüddel, Erwin",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+497,"Rüffer, Corinna",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+498,Rüthrich,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Lehrer
+499,Rützel,SPD,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Handwerk
+500,Sabine Leidig,Die Linke,Masterabschluss,Mittlere Reife,Keine Daten,Keine Daten
+501,Sabine Zimmermann (Zwickau),Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+502,"Sarrazin, Manuel",Die Grünen,Masterabschluss,Abitur,Landtag,Politik
+503,"Sattelberger, Thomas",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+504,"Sauer, Stefan",Union,Masterabschluss,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+505,"Sauter, Christian",FDP,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+506,"Schauws, Ulla",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Kultur
+507,Scheer,SPD,Promotion,Abitur,Kein politisches Amt,Kultur
+508,"Scheuer, Andreas",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+509,Schieder,SPD,Staatsexamen,Abitur,Landtag,Rechtsanwalt/Kanzlei
+510,Schiefner,SPD,Berufsausbildung,Hauptschulabschluss,Kommunales Führungsamt,Ingenieurwesen und Bau
+511,"Schielke-Ziesing, Ulrike",AfD,Bachelorabschluss,Abitur,Kein politisches Amt,Bankwesen
+512,"Schimke, Jana",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+513,"Schinnenburg, Wieland",FDP,Promotion,Abitur,Landtag,Medizin/Arzt
+514,"Schipanski, Tankred",Union,Staatsexamen,Abitur,Kein politisches Amt,Akademische Lehre
+515,"Schlund, Robby",AfD,Promotion,Abitur,Kein politisches Amt,Militär
+516,Schmid,SPD,Promotion,Abitur,Landtag,Rechtsanwalt/Kanzlei
+517,"Schmidt, Christian",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+518,"Schmidt, Frithjof",Die Grünen,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Journalismus
+519,"Schmidt, Stefan",Die Grünen,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Akademische Lehre
+520,"Schmidt, Ulla",SPD,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Lehrer
+521,"Schmidt, Uwe",SPD,Berufsausbildung,Mittlere Reife,Kommunale Räte,Handwerk
+522,"Schmidtke, Claudia",Union,Promotion,Abitur,Kein politisches Amt,NGO/Vereinstätigkeit
+523,Schneider,SPD,Berufsausbildung,Abitur,Kein politisches Amt,Bankwesen
+524,"Schneider, Jörg",AfD,Masterabschluss,Abitur,Kein politisches Amt,Militär
+525,"Schnieder, Patrick",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Politik
+526,Schraps,SPD,Masterabschluss,Abitur,Kommunale Räte,Politik
+527,"Schreiner, Felix",Union,Duales Studium,Mittlere Reife,Landtag,Politik
+528,Schrodi,SPD,Staatsexamen,Keine Daten,Kommunales Führungsamt,Bankwesen
+529,"Schulz, Jimmy",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+530,"Schulz, M.",SPD,Berufsausbildung,Abitur,Parteiamt auf Bundes- oder Landesebene,Service
+531,"Schulz, S.",SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+532,"Schulz, Uwe",AfD,Bachelorabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+533,"Schulz-Asche, Kordula",Die Grünen,Masterabschluss,Abitur,Landtag,NGO/Vereinstätigkeit
+534,"Schulze, Klaus-Peter",Union,Masterabschluss,Abitur,Kommunales Führungsamt,Soziale Arbeit und Kinderbetreuung
+535,"Schummer, Uwe",Union,Berufsausbildung,Abitur,Kein politisches Amt,Politik
+536,Schurer,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Bankwesen
+537,"Schuster, Armin",Union,Duales Studium,Mittlere Reife,Kein politisches Amt,Polizei/Strafverfolgung*Staatsanwalt
+538,Schwabe,SPD,Bachelorabschluss,Abitur,Kommunale Räte,Bankwesen
+539,Schwartze,SPD,Berufsausbildung,Abitur,Kommunales Führungsamt,Ingenieurwesen und Bau
+540,Schwarz,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Bankwesen
+541,Schwarzelühr-Sutter,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Bankwesen
+542,"Schweiger, Torsten",Union,Masterabschluss,Abitur,Kommunale Räte,Verwaltung
+543,Schäfer,SPD,Berufsausbildung,Abitur,Führungsposition auf Landesebene,Service
+544,"Schäfer, Anita ",Union,Berufsausbildung,Mittlere Reife,Kein politisches Amt,Politik
+545,"Schäffler, Frank",FDP,Masterabschluss,Abitur,Kein politisches Amt,Unternehmer
+546,"Schäuble, Wolfgang",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+547,"Schön, Nadine",Union,Masterabschluss,Abitur,Landtag,Politik
+548,Schüle,SPD,Promotion,Keine Daten,Landtag,Politik
+549,"Seestern-Pauly, Matthias",FDP,Staatsexamen,Abitur,Kommunale Räte,Lehrer
+550,"Seif, Detlef",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+551,"Seitz, Thomas",AfD,Staatsexamen,Abitur,Kein politisches Amt,Verwaltung
+552,"Selle, Johannes",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+553,"Sendker, Reinhold",Union,Masterabschluss,Mittlere Reife,Landtag,Lehrer
+554,"Sensburg, Patrick",Union,Promotion,Abitur,Kommunale Räte,Akademische Lehre
+555,Sevim Dağdelen,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+556,"Sichert, Martin",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+557,"Silberhorn, Thomas",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+558,"Simon, Björn",Union,Masterabschluss,Abitur,Kommunale Räte,Unternehmer
+559,Simone Barrientos,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+560,"Sitta, Frank",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Kultur
+561,"Skudelny, Judith",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+562,"Solms, Hermann Otto",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+563,"Sorge, Tino",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+564,"Spahn, Jens",Union,Masterabschluss,Abitur,Kommunale Räte,Bankwesen
+565,"Spangenberg, Detlev",AfD,Masterabschluss,Abitur,Kein politisches Amt,Steuerberatung und Wirtschaftsprüfung
+566,"Spaniel, Dirk",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Ingenieurwesen und Bau
+567,Spiering,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Lehrer
+568,"Springer, René",AfD,Berufsausbildung,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Politik
+569,Stadler,SPD,Berufsausbildung,Abitur,Kommunales Führungsamt,Service
+570,"Staffler, Katrin",Union,Masterabschluss,Abitur,Kommunale Räte,Journalismus
+571,Stamm-Fibich,SPD,Berufsausbildung,Mittlere Reife,Kein politisches Amt,Keine Daten
+572,"Stark-Watzinger, Bettina",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Bankwesen
+573,"Steffel, Frank",Union,Masterabschluss,Abitur,Landtag,Unternehmer
+574,"Stefinger, Wolfgang",Union,Promotion,Abitur,Kommunale Räte,Privatwirtschaft/Management
+575,"Stegemann, Albert",Union,Berufsausbildung,Mittlere Reife,Kein politisches Amt,Landwirtschaft
+576,"Steier, Andreas",Union,Masterabschluss,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+577,Stein,SPD,Berufsausbildung,Mittlere Reife,Landtag,Ingenieurwesen und Bau
+578,"Stein, Peter",Union,Masterabschluss,Abitur,Landtag,Ingenieurwesen und Bau
+579,"Steineke, Sebastian",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+580,"Steiniger, Johannes",Union,Staatsexamen,Abitur,Kommunale Räte,Lehrer
+581,"Stier, Dieter",Union,Duales Studium,Mittlere Reife,Kommunale Räte,Verwaltung
+582,"Storch, Beatrix von",AfD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+583,"Storjohann, Gero",Union,Duales Studium,Abitur,Landtag,Verwaltung
+584,"Strack-Zimmermann, Marie-Agnes",FDP,Promotion,Abitur,Kommunales Führungsamt,Journalismus
+585,"Stracke, Stephan",Union,Staatsexamen,Abitur,Kommunale Räte,Verwaltung
+586,"Strasser, Benjamin",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+587,"Straubinger, Max",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Bankwesen
+588,"Strengmann-Kuhn, Wolfgang",Die Grünen,Promotion,Abitur,Führungsposition auf Landesebene,Wissenschaft
+589,"Strenz, Karin",Union,Masterabschluss,Mittlere Reife,Landtag,Lehrer
+590,"Stumpp, Margit",Die Grünen,Masterabschluss,Abitur,Kommunales Führungsamt,Ingenieurwesen und Bau
+591,"Stübgen, Michael",Union,Staatsexamen,Abitur,Kommunale Räte,Kirche
+592,"Suding, Katja",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+593,Susanne Ferschl,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+594,Sylvia Gabelmann,Die Linke,Masterabschluss,Abitur,Keine Daten,Keine Daten
+595,Sören Pellmann,Die Linke,Staatsexamen,Mittlere Reife,Keine Daten,Keine Daten
+596,Tack,SPD,Masterabschluss,Keine Daten,Kommunale Räte,Lehrer
+597,"Tauber, Peter",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+598,Tausend,SPD,Masterabschluss,Abitur,Führungsposition auf Landesebene,Wissenschaft
+599,"Tebroke, Hermann-Josef",Union,Promotion,Abitur,Kommunales Führungsamt,Politik
+600,"Teuteberg, Linda",FDP,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+601,"Theurer, Michael",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+602,Thews,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Ingenieurwesen und Bau
+603,"Thies, Hans-Jürgen",Union,Staatsexamen,Abitur,Kein politisches Amt,Rechtsanwalt/Kanzlei
+604,"Thomae, Stephan",FDP,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+605,Thomas Lutze,Die Linke,Berufsausbildung,Keine Daten,Keine Daten,Keine Daten
+606,Thomas Nord,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+607,"Throm, Alexander",Union,Staatsexamen,Abitur,Landtag,Politik
+608,"Tiemann, Dietlind",Union,Promotion,Abitur,Kommunales Führungsamt,Politik
+609,"Tillmann, Antje",Union,Duales Studium,Abitur,Kommunale Räte,Steuerberatung und Wirtschaftsprüfung
+610,"Toltenhaus, Manfred",FDP,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Handwerk
+611,"Toncar, Florian",FDP,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+612,"Tressel, Markus",Die Grünen,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+613,"Trittin, Jürgen",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+614,Träger,SPD,Masterabschluss,Abitur,Kommunales Führungsamt,Politik
+615,Töns,SPD,Masterabschluss,Abitur,Landtag,Politik
+616,"Uhl, Markus",Union,Masterabschluss,Abitur,Kommunale Räte,Politik
+617,Ulla Jelpke,Die Linke,Staatsexamen,Abitur,Keine Daten,Keine Daten
+618,"Ullmann, Andrew",FDP,Promotion,Abitur,Kommunale Räte,Medizin/Arzt
+619,"Ullrich, Gerald",FDP,Bachelorabschluss,Mittlere Reife,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+620,"Ullrich, Volker",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+621,"Vaatz, Arnold",Union,Masterabschluss,Abitur,Führungsposition auf Landesebene,Handwerk
+622,"Veith, Oswin",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Politik
+623,"Verlinden, Julia",Die Grünen,Masterabschluss,Abitur,Kommunales Führungsamt,Wissenschaft
+624,"Vieregge, Kerstin",Union,Duales Studium,Abitur,Kommunale Räte,Politik
+625,"Vogel, Johannes",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Verwaltung
+626,"Vogel, Volkmar",Union,Duales Studium,Abitur,Kommunale Räte,Privatwirtschaft/Management
+627,Vogt,SPD,Staatsexamen,Abitur,Landtag,Rechtsanwalt/Kanzlei
+628,Völlers,SPD,Staatsexamen,Abitur,Kommunale Räte,Lehrer
+629,"Wadephul, Johann David",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+630,"Walter-Rosenheimer, Beate",Die Grünen,Masterabschluss,Abitur,Kommunales Führungsamt,Medizin/Arzt
+631,"Wanderwitz, Marco",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+632,"Warken, Nina",Union,Staatsexamen,Abitur,Kommunale Räte,Rechtsanwalt/Kanzlei
+633,"Weeser, Sandra",FDP,Bachelorabschluss,Abitur,Keine Daten,Privatwirtschaft/Management
+634,"Wegner, Kai",Union,Berufsausbildung,Mittlere Reife,Landtag,Privatwirtschaft/Management
+635,"Weidel, Alice",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Unternehmer
+636,"Weiler, Albert H.",Union,Masterabschluss,Abitur,Kommunales Führungsamt,Verwaltung
+637,"Weinberg, Marcus",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Lehrer
+638,"Weisgerber, Anja",Union,Promotion,Abitur,Landtag,Rechtsanwalt/Kanzlei
+639,"Weiss, Sabine",Union,Staatsexamen,Abitur,Kommunales Führungsamt,Politik
+640,"Weiß, Peter",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+641,"Wellenreuther, Ingo",Union,Staatsexamen,Abitur,Kommunale Räte,Politik
+642,"Wendt, Marian",Union,Masterabschluss,Abitur,Kein politisches Amt,Politik
+643,"Westig, Nicole",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+644,Westphal,SPD,Berufsausbildung,Abitur,Kommunales Führungsamt,Keine Daten
+645,"Weyel, Harald (Prof.)",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+646,"Whittaker, Kai",Union,Masterabschluss,Abitur,Kommunale Räte,Privatwirtschaft/Management
+647,"Widmann-Mauz, Annette",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+648,"Wiehle, Wolfgang",AfD,Masterabschluss,Abitur,Kein politisches Amt,Service
+649,Wiese,SPD,Staatsexamen,Abitur,Kommunales Führungsamt,Keine Daten
+650,"Wiesmann, Bettina Margarethe",Union,Masterabschluss,Abitur,Landtag,Politik
+651,"Wildberg, Heiko",AfD,Promotion,Abitur,Kein politisches Amt,PR/Werbung
+652,"Wilkomm, Katharina",FDP,Staatsexamen,Abitur,Führungsposition auf Landesebene,Rechtsanwalt/Kanzlei
+653,"Willsch, Klaus-Peter",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+654,"Winkelmeier-Becker, Elisabeth",Union,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Richteramt
+655,"Wirth, Christian",AfD,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+656,"Witt, Uwe",AfD,Masterabschluss,Abitur,Kein politisches Amt,Privatwirtschaft/Management
+657,"Wittke, Oliver",Union,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+658,Yüksel,SPD,Berufsausbildung,Keine Daten,Kommunale Räte,Keine Daten
+659,"Zeulner, Emmi",Union,Bachelorabschluss,Abitur,Kommunale Räte,Pflegeberuf
+660,"Zickenheiner, Gerhard",Die Grünen,Masterabschluss,Abitur,Kommunale Räte,Ingenieurwesen und Bau
+661,Ziegler,SPD,Masterabschluss,Abitur,Kommunale Räte,Keine Daten
+662,"Ziemiak, Paul",Union,Bachelorabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Privatwirtschaft/Management
+663,Zierke,SPD,Berufsausbildung,Mittlere Reife,Führungsposition auf Landesebene,Keine Daten
+664,"Zimmer, Matthias",Union,Promotion,Abitur,Kommunale Räte,Akademische Lehre
+665,Zimmermann,SPD,Promotion,Abitur,Kommunales Führungsamt,Bankwesen
+666,"de Maizière, Thomas",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Politik
+667,"de Vries, Christoph",Union,Masterabschluss,Abitur,Kommunale Räte,Politik
+668,"de Vries, Kees",Union,Berufsausbildung,Hauptschulabschluss,Kommunale Räte,Landwirtschaft
+669,"in der Beek, Olaf",FDP,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+670,"von Marschall, Matern",Union,Masterabschluss,Abitur,Kein politisches Amt,Kultur
+671,"von Stetten, Christian Freiherr",Union,Masterabschluss,Abitur,Kommunale Räte,Unternehmer
+672,"von der Leyen, Ursula",Union,Promotion,Abitur,Parteiamt auf Bundes- oder Landesebene,Medizin/Arzt
+673,"von der Marwitz, Hans-Georg",Union,Berufsausbildung,Mittlere Reife,Kommunale Räte,Landwirtschaft
+674,Özdemir,SPD,Staatsexamen,Abitur,Parteiamt auf Bundes- oder Landesebene,Rechtsanwalt/Kanzlei
+675,"Özdemir, Cem",Die Grünen,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Soziale Arbeit und Kinderbetreuung
+676,Özoğuz,SPD,Masterabschluss,Abitur,Parteiamt auf Bundes- oder Landesebene,Wissenschaft
+677,"Münzenmaier, Sebastian",AfD,Keine Daten,Abitur,Kein politisches Amt,Politik
+678,"Wagner, Daniela",Die Grünen,Keine Daten,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+679,Alexander Ulrich,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+680,Christine Buchholz,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+681,Doris Achelwilm,Die Linke,Keine Daten,Mittlere Reife,Keine Daten,Keine Daten
+682,Dr. Dietmar Bartsch,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+683,Dr. Gesine Lötzsch,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+684,Dr. Sahra Wagenknecht,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+685,Fabio De Masi,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+686,Gökay Akbulut,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+687,Hubertus Zdebel,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+688,Jan Korte,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+689,Jessica Tatti,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+690,Kersten Steinke,Die Linke,Keine Daten,Mittlere Reife,Keine Daten,Keine Daten
+691,Kerstin Kassner,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+692,Lorenz Gösta Beutin,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+693,Matthias W. Birkwald,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+694,Niema Movassat,Die Linke,Keine Daten,Mittlere Reife,Keine Daten,Keine Daten
+695,Pascal Meiser,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+696,Petra Pau,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+697,Ralph Lenkert,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+698,Stefan Liebich,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+699,Tobias Pflüger,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+700,Victor Perli,Die Linke,Keine Daten,Keine Daten,Keine Daten,Keine Daten
+701,Zaklin Nastic,Die Linke,Keine Daten,Abitur,Keine Daten,Keine Daten
+702,Hartmann,SPD,Keine Daten,Abitur,Parteiamt auf Bundes- oder Landesebene,PR/Werbung
+703,Heidenblut,SPD,Keine Daten,Abitur,Kommunale Räte,Verwaltung
+704,Mattheis,SPD,Keine Daten,Keine Daten,Führungsposition auf Landesebene,Keine Daten
+705,Nietan,SPD,Keine Daten,Abitur,Parteiamt auf Bundes- oder Landesebene,Keine Daten
+706,Saathoff,SPD,Keine Daten,Abitur,Kommunales Führungsamt,Keine Daten
+707,"Schmidt, D.",SPD,Keine Daten,Abitur,Landtag,Wissenschaft
+708,Schulte,SPD,Keine Daten,Mittlere Reife,Kommunales Führungsamt,Keine Daten
+709,Vöpel,SPD,Keine Daten,Abitur,Kommunales Führungsamt,Privatwirtschaft/Management
+710,Weber,SPD,Keine Daten,Mittlere Reife,Kommunale Räte,Keine Daten

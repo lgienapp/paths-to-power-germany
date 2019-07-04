@@ -53,31 +53,25 @@ var dimensions = [
     key: "Abschluss",
     description: "Schulabschluss",
     type: types["String"],
-    domain: ["Abitur","Mittlere Reife","Hauptschulabschluss"]
+    domain: ["Abitur","Mittlere Reife","Hauptschulabschluss","Keine Daten"]
   },
   {
     key: "Bildungsgrad",
     description: "Bildungsgrad",
     type: types["String"],
-    domain: ["Promotion", "Staatsexamen", "Masterabschluss", "Bachelorabschluss", "Duales Studium","Berufsausbildung"]
-  },
-  {
-    key: "Freiwilligendienst",
-    description: "Freiwilligendienst",
-    type: types["String"],
-    domain: ["Kein Freiwilligendienst", "Freiwilligendienst", "Wehrdienst"]
+    domain: ["Promotion", "Staatsexamen", "Masterabschluss", "Bachelorabschluss", "Duales Studium","Berufsausbildung","Keine Daten"]
   },
   {
     key: "Vormalige Ämter",
     description: "Vormalige Ämter",
     type: types["String"],
-    domain: ['Kein politisches Amt','Kommunale Räte', 'Kommunales Führungsamt', 'Landtag','Führungsposition auf Landesebene','Parteiamt auf Bundes- oder Landesebene']
+    domain: ['Kein politisches Amt','Kommunale Räte', 'Kommunales Führungsamt', 'Landtag','Führungsposition auf Landesebene','Parteiamt auf Bundes- oder Landesebene','Keine Daten']
   },
   {
     key: "Beruf",
     description: "Beruf",
     type: types["String"],
-    domain: ['Handwerk','Service','Sport', 'Wissenschaft','Ingenieurwesen und Bau', 'Kirche', 'Rechtsanwalt/Kanzlei','Richteramt', 'Medizin/Arzt', 'Pflegeberuf','Lehrer','Akademische Lehre','Journalismus','PR/Werbung','NGO/Vereinstätigkeit','Gewerkschaft','Militär','Polizei/Strafverfolgung*Staatsanwalt','Immobilien','Bankwesen','Privatwirtschaft/Management','Landwirtschaft','Lobbyismus/Aktivismus','Verwaltung','Kultur','Unternehmer','Politik','Soziale Arbeit und Kinderbetreuung','Steuerberatung und Wirtschaftsprüfung']
+    domain: ['Handwerk','Service','Sport', 'Wissenschaft','Ingenieurwesen und Bau', 'Kirche', 'Rechtsanwalt/Kanzlei','Richteramt', 'Medizin/Arzt', 'Pflegeberuf','Lehrer','Akademische Lehre','Journalismus','PR/Werbung','NGO/Vereinstätigkeit','Gewerkschaft','Militär','Polizei/Strafverfolgung*Staatsanwalt','Immobilien','Bankwesen','Privatwirtschaft/Management','Landwirtschaft','Lobbyismus/Aktivismus','Verwaltung','Kultur','Unternehmer','Politik','Soziale Arbeit und Kinderbetreuung','Steuerberatung und Wirtschaftsprüfung','Keine Daten']
   }
 ];
 
@@ -92,12 +86,6 @@ var container = d3.select("body").append("div")
     .style("width", width + margin.left + margin.right + "px")
     .style("height", height + margin.top + margin.bottom + "px");
 
-var svg = container.append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
 var canvas = container.append("canvas")
     .attr("width", width * devicePixelRatio)
     .attr("height", height * devicePixelRatio)
@@ -106,9 +94,15 @@ var canvas = container.append("canvas")
     .style("margin-top", margin.top + "px")
     .style("margin-left", margin.left + "px");
 
+var svg = container.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 var ctx = canvas.node().getContext("2d");
-ctx.globalCompositeOperation = "lighten";
-ctx.globalAlpha = 0.15;
+//ctx.globalCompositeOperation = "destination-over";
+ctx.globalAlpha = 0.1;
 ctx.lineWidth = 7;
 ctx.scale(devicePixelRatio, devicePixelRatio);
 
@@ -241,6 +235,9 @@ d3.csv("data.csv", function(error, data) {
     tabulate(selected)
     number.text(selected.length+" Abgeordnete");
   }
+  // Move axis to top zindex
+  console.log(d3.select(".axis"))
+  console.log(d3.selectAll("svg path"))
 });
 
 function d3_functor(v) {

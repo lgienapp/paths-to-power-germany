@@ -13,6 +13,11 @@ body {
 
 }
 
+canvas {
+  z-index: 1;
+  opacity: .5;
+}
+
 .parcoords {
   display: block;
 }
@@ -27,7 +32,6 @@ body {
   opacity: 0.9;
   pointer-events: none;
 }
-
 .axis .title {
   font-size: 15px;
   transform: translate(-20px, -20px);
@@ -42,12 +46,13 @@ body {
 }
 
 .axis .tick text {
-  fill: #222;
+  fill: black;
   pointer-events: none;
   text-shadow: 0 0 5px #eee;
-  z-index: 0;
+  z-index: 1000;
   transform: translate(3px, -8px);
   text-align: center;
+  background: white;
 }
 
 .axis.Partei .tick text {
